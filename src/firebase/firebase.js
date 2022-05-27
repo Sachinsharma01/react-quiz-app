@@ -7,12 +7,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDcL8oyIirM1RQ9Jv6O9IM3irbmLTGZe88",
-  authDomain: "quiz-app-7fa4f.firebaseapp.com",
-  projectId: "quiz-app-7fa4f",
-  storageBucket: "quiz-app-7fa4f.appspot.com",
-  messagingSenderId: "315903283040",
-  appId: "1:315903283040:web:8fe92a119ddc51c5d91805",
+  apiKey: "AIzaSyCOptMyjPIWqhoIbFsUbvd5mDt7Tam4leE",
+  authDomain: "react-quiz-29083.firebaseapp.com",
+  projectId: "react-quiz-29083",
+  storageBucket: "react-quiz-29083.appspot.com",
+  messagingSenderId: "781544712579",
+  appId: "1:781544712579:web:ef9cd70c757efda64f6eb6"
 };
 
 // Initialize Firebase
